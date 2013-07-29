@@ -3,9 +3,9 @@
  * Created:	15/04/2012	(DD/MM/YYYY)
 **/
 #include <cstdlib>
-#include <math.h>
+#include <cmath>
 #include <ctime>
-#include <GLUT/glut.h>
+#include <GL/glut.h>
 
 void timer (int);
 void initialize (void);
